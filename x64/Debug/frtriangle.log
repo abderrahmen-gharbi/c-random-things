@@ -1,0 +1,1 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1146,9): error MSB4030: "C:\cpp\SFML-2.5.1\bin" n'est pas une valeur valide pour le paramètre "PreventDllBinding" de la tâche "Link". Le paramètre "PreventDllBinding" est de type "System.Boolean".
